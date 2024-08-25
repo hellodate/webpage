@@ -5,6 +5,7 @@
 其中文件顺序是《statics》包含 《 assets》 包含《css img js vendor》
 
 static 
+
  >assets
   >css
   >img
