@@ -6,7 +6,7 @@
 
 static 
 
- >assets
+ assets
   >css
   >img
   >js
